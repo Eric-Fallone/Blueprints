@@ -1,0 +1,21 @@
+Express
+
+	Fast, unopinionated, minimalist web framework for node.
+
+body-parser
+
+	Node.js body parsing middleware.
+	Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+	https://www.npmjs.com/package/body-parser
+
+method-override
+
+	Lets you use HTTP verbs such as PUT or DELETE in places where the client doesn't support it.
+
+normalize-port
+
+	A handy function that normalizes a port into a number, string, or false.
+
+ejs
+
+	Embedded JavaScript templates
